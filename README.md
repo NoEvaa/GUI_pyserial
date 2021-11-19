@@ -1,23 +1,23 @@
 # GUI_pyserial
 python+PySimpleGUI+pyserial+threading
 
-# 功能
+## 功能
 
 1.利用PySimpleGUI制作图形用户界面
 
 2.利用threading实现多线程调用pyserial处理串口通信
 
-# 模块版本
+## 模块版本
 
 PySimpleGUI 4.46.0
 
 pyserial 3.5
 
-# 使用方式
+## 使用方式
 
 1.运行 serUI.py 文件
 
-# 目录结构描述
+## 目录结构描述
 
 ├── README.md          // help
 
@@ -27,7 +27,7 @@ pyserial 3.5
 
 └── workstation.py     // 数据处理及反馈
 
-# 开发
+## 开发
 
 1.如需修改UI界面请更改serUI.py
 
