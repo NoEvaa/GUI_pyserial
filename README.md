@@ -37,3 +37,7 @@ pyserial 3.5
 
 4.pySerThread.py中隐藏了多线程串口通信实现细节，可以通过另外两个文件的调整直接实现用户界面
 
+<br><br><br>
+[NoEVaa](https://github.com/NoEvaa "悬停显示")
+<br>
+[NPark](https://github.com/NoEvaa "悬停显示")
